@@ -19,5 +19,5 @@ You can easily make new levels by creating new text files in the "maps" folder. 
 
 # Author
 
-Created by Paweł "PolskiSwir345" Michalski.
-pawelmichalski9[at]gmail.com
+Author: Paweł Michalski. <pawelmichalski9@gmail.com>
+
