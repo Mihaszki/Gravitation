@@ -8,10 +8,10 @@ Gravitation - is a game where you can manipulate your gravity. Written in C# (co
 
 # Controls
 
-A, D - Movement
-C - Change colors (all colors/black and white)
-Space - Manipulate gravity
-ESC - Exit
+- A, D - Movement
+- C - Change colors (all colors/black and white)
+- Space - Manipulate gravity
+- ESC - Exit
 
 # Creating new levels
 
