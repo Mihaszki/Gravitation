@@ -16,8 +16,3 @@ Gravitation - is a game where you can manipulate your gravity. Written in C# (co
 # Creating new levels
 
 You can easily make new levels by creating new text files in the "maps" folder. Just copy one of existing file, rename it to "level(next value).txt" and edit it in notepad.exe.
-
-# Author
-
-Author: Paweł Michalski. <pawelmichalski9@gmail.com>
-
