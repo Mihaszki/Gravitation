@@ -1,5 +1,7 @@
 # Gravitation
 
+![Preview](preview.png)
+
 Gravitation - is a game where you can manipulate your gravity. Written in C# (console app). You can easily add new levels (even without programming knowledge). The game is colorized, but user can disable colors (game will work faster).
 
 # Presentation
